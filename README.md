@@ -1,4 +1,4 @@
-<h1 align ="center">Unity2D Cude Avade 🍆 🔴 🟨</h1>
+<h1 align ="center">Unity3D Cude Avade Game 🍆 🔴 🟨</h1>
 
 First 3D study project of my journey, it is a simple object dodging and catching game, it is made using Unity and C#.
 
